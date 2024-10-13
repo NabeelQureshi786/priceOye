@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PriceOye</string>
+    <string name="login">Log In</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="login_failed">Login Failed</string>
+</resources>
